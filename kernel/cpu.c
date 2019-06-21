@@ -26,7 +26,6 @@
 #include <linux/irq.h>
 #include <linux/nmi.h>
 #include <linux/smpboot.h>
-#include <linux/relay.h>
 #include <linux/slab.h>
 #include <linux/percpu-rwsem.h>
 
